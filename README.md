@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Skrgich
+- 👀 I’m interested in everything tech related
+- 🌱 I’m currently learning Algorithms & Data Structures and Python
+- 💞️ I’m looking to collaborate on anything just to get some experience
+- 📫 dadoskrgic@gmail.com
